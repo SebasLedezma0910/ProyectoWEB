@@ -23,27 +23,27 @@ body{
 
 .header{
     grid-area: header;
-    background-color: #85aedd;
+    background-color: #aed3fd;
 }
 
 .navbar{
     grid-area: navbar;
-    background-color: #afd6af;
+    background-color: #ceffce;
 }
 
 .sidebar{
     grid-area: sidebar;
-    background-color: #fff4b6;
+    background-color: #f7efc5;
 }
 
 .main{
     grid-area: main;
-    background-color: #ffc595;
+    background-color: #ffdabc;
 }
 
 .footer{
     grid-area: footer;
-    background-color: #8c96a0;
+    background-color: #bdccdb;
 }
 
 .grid-container{
